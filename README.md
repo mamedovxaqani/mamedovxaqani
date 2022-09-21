@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mamedovxaqani
 - 👀 I'm interested Programming and Travel
-- 🌱 I'm currently learning Laravel and Vue
+- 🌱 I'm currently learning React and Vue
 - 📫 How to reach me on 
-      - Linkedin: https://www.linkedin.com/in/xaqani-mamedov-248535201/
+      - Linkedin: https://www.linkedin.com/in/xaqani-mamedov
 
 <!---
 mamedovxaqani/mamedovxaqani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
